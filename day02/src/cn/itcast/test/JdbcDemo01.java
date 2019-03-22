@@ -26,6 +26,11 @@ public class JdbcDemo01 {
         conn.close();
 
     }
+	
+	
+	public void aa(){
+		System.out.println("嘿嘿嘿");
+	}
 }
 
 
